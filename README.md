@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AnushkaD26
-- 👀 I’m interested in Android Development as well as in AI & ML.
+- 👋 Hello, I’m @AnushkaD26
+- 👀 My interest lies in 
+     Android Development ||
+     AI & ML
 - 🌱 I’m currently learning Android in java, Dsa and AI&ML.
-- 💞️ I’m looking to collaborate on Android and ML related projects.
+- 💞️ I’m looking to collaborate on above mentioned projects.
 - 📫 How to reach me dixitanushka2621@gmail.com
 
 <!---
